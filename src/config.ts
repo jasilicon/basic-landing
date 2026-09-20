@@ -3,7 +3,7 @@ export const siteConfig = {
       accentHex: "#2563EB", 
       trialUrl: "/signup",
       seo: {
-        keyword: "sales kpi tracker",
+        keyword: "Metric Master Official",
         noIndex: false, 
       },
       pixels: {
