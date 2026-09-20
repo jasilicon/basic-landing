@@ -29,7 +29,7 @@ export const siteConfig = {
         ],
         testimonial: {
           quote: "MetricMaster completely changed how we run our weekly pipeline reviews. We instantly knew where to focus our coaching efforts.",
-          author: "Jane Doe",
+          author: "Jame Doe",
           role: "VP of Sales, Acme Corp"
         },
         faq: [
