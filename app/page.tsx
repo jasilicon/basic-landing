@@ -8,6 +8,7 @@ import FAQ from "../src/components/FAQ";
 import FinalCTA from "../src/components/FinalCTA";
 import Footer from "../src/components/Footer";
 import Analytics from "../src/components/Analytics";
+import LeadCapturePopup from "../src/components/LeadCapturePopup";
 import { siteConfig } from "../src/config";
 
 export default function Home() {
@@ -55,6 +56,7 @@ export default function Home() {
       <FAQ />
       <FinalCTA />
       <Footer />
+      <LeadCapturePopup />
     </main>
   );
 }
