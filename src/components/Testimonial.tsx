@@ -7,7 +7,7 @@ export default function Testimonial() {
     <section className="bg-gray-50 py-24">
       <div className="mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
         <blockquote className="text-2xl font-medium leading-9 text-gray-600 sm:text-3xl">
-          "{quote}"
+          &ldquo;{quote}&rdquo;
         </blockquote>
         <div className="mt-8">
           <p className="font-semibold text-gray-900">{author}</p>
